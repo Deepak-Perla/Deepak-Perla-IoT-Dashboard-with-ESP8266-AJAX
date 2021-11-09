@@ -1,3 +1,3 @@
 # IoT-Dashboard-with-ESP8266-AJAX
 
-All the details will be uploaded soon
+![[object Object]](https://socialify.git.ci/Deepak-Perla/IoT-Dashboard-with-ESP8266-AJAX/image?language=1&pattern=Circuit%20Board&theme=Dark)
